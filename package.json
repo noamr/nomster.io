@@ -1,0 +1,17 @@
+{
+  "name": "Nomsternom",
+  "version": "1.0.0",
+  "description": "Noam Rosenthal's personal website",
+  "main": "index.js",
+  "author": "Noam Rosenthal",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "eleventy": "^1.0.6",
+    "poet": "^3.0.0"
+  }
+}
